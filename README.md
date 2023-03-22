@@ -7,4 +7,4 @@ NTU Canteen Navigator:
 
 •	Enhanced the application by additional features such as sorting menus by price and helping the user to find nearest canteen from their current location.
 
-* NTU CZ1003 INTRO TO COMPUTATIONAL THINKING *
+*NTU CZ1003 INTRO TO COMPUTATIONAL THINKING*
